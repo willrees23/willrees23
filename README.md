@@ -7,7 +7,6 @@
 
 <p align="center">»  📜 Studying Digital Production, Design & Development  «</p>
 <p align="center">»  ☕ I code Java, Javascript, HTML, CSS  «</p>
-<p align="center">»  💾 I use MySQL, SQL, MongoDB  «</p>
 
 <br>
 
