@@ -1,7 +1,7 @@
 <h3 align="center">About me</h3>
 
 <p align="center">»  📜 Studying Digital Production, Design & Development  «</p>
-<p align="center">»  ☕ JavaScript, HTML, CSS, SPA Frameworks  «</p>
+<p align="center">»  ☕ Java, JavaScript, HTML, CSS, SPA Frameworks  «</p>
 
 <br>
 
