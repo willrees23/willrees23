@@ -1,3 +1,4 @@
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=willrees23&show_icons=true&theme=dracula">
+  https://github-readme-stats-git-master-xwand.vercel.app/
+[![Wand's GitHub stats](https://github-readme-stats-git-master-xwand.vercel.app/api?username=anuraghazra&theme=ambient_gradient)](https://github.com/willrees23)
 </p>
